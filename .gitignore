@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+
+/.env
+.env
+
+*.py[cod]
+
+/.adk
+.adk
+
+.DS_Store
+Thumbs.db
