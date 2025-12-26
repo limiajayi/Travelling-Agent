@@ -10,5 +10,9 @@ env/
 /.adk
 .adk
 
+/__pycache__/
+__pycache__/
+*.pyc
+
 .DS_Store
 Thumbs.db
